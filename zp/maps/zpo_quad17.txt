@@ -1,0 +1,7 @@
+***Escape from the Quad17 Complex!***
+Due to the zombie presence, Quad17 is in tight lockdown. You must press six buttons to deactivate the security doors.
+These security buttons are scattered throughout the Complex, and must be pressed in order from 1 to 6. Each button will open 1 door.
+Once all security doors have been opened, at least one Survivor must escape to warn the outside world for the Survivor team to win.
+
+
+

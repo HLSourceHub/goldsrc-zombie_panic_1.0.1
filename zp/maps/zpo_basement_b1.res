@@ -1,0 +1,9 @@
+gfx\env\skybasementbk.tga
+gfx\env\skybasementdn.tga
+gfx\env\skybasementft.tga
+gfx\env\skybasementlf.tga
+gfx\env\skybasementrt.tga
+gfx\env\skybasementup.tga
+sound\zp_basement\gust-3.wav
+sound\zp_basement\water_flowing3.wav
+sound\zp_basement\waterrun.wav

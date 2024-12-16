@@ -1,0 +1,14 @@
+// Valve Game Info file
+//  These are key/value pairs.  Certain mods will use different settings.
+//
+game "Zombie Panic!"
+//startmap "c0a0"
+//trainmap "t0a0"
+mpentity "info_player_team1"
+gamedll "dlls\mp.dll"
+gamedll_linux "dlls/hl_i386.so"
+type "multiplayer_only"
+svonly "0"
+cldll "1"
+nomodels "1"
+nohimodel "1"

@@ -1,0 +1,43 @@
+----------|Info|------------------------------
+
+Title		: ZNA
+Author		: Bloodix
+Author Email	: bloodix@chaos-realms.com	
+Home page	: www.chaos-realms.com
+Date            : 2/12/2005
+
+----------|Tips & Notes|----------------------
+
+The sacrifice has gone totally wrong.
+Now you are stuck in the old abandoned mansion.
+There’s no way out, so you might as well go out
+with a bang. Be careful though, for every zombie
+you kill, two more will rise from its grave.
+
+
+---------|Change Log|-------------------------
+
+V1.2 Redide the entire attic. added a few holes
+     to the map to help prevent idiots from
+     blocking it. Took out Vents. replaced
+     Some ammo and guns in different areas.
+
+V1.0 First Release
+
+
+----------|Credits|---------------------------
+
+Bo0m!: testing the map out
+ZPanic Forums: Those that gave suggestions
+Losers: who blocked the door ways of the attic,
+	and other areas.
+Zombie Panic!: For making this mod!
+
+
+----------|Copyright|-------------------------
+
+Note: This map belongs to me, please do not mod,
+or use this map as a base level with out my
+permision.
+
+Thank you

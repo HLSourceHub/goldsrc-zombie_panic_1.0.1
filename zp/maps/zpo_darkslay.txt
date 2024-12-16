@@ -1,0 +1,42 @@
+----------|Info|------------------------------
+
+Title		: DarkSlay
+Mode            : Objective
+bsp file        : zpo_darkslay
+Author		: Bloodix
+Author Email	: bloodix@chaos-realms.com	
+Home page	: www.chaos-realms.com
+Date            : 2/12/2005
+
+----------|Tips & Notes|----------------------
+
+This is an objective map for ZP. Meaning that
+the only way for the humans to win is to escape
+The Zombie Lives for this map is suppost to be
+at least 1000. The humans will have to use
+teamwork to get through the exit doors. And
+The final Door will require at least 2 humans
+to escape. But more might help in protecting
+the escaping humans.
+
+Also if one human reaches the exit, then human
+side wins!
+
+
+----------|Credits|---------------------------
+
+Hi!
+Subernoob
+Skinthiner
+Bo0m!
+Everyone at ZPanic forums
+Zombie Panic!: For making this mod!
+
+
+----------|Copyright|-------------------------
+
+Note: This map belongs to me, please do not mod,
+or use this map as a base level with out my
+permision.
+
+Thank you

@@ -1,0 +1,41 @@
+zp_town
+
+A map for the Half-Life modification Zombie Panic. The map is really small and
+fits best for a small amount of players (2-8).
+
+Map by: brute_force
+Custom textures: They Hunger, unknown
+Custom sounds: They Hunger
+Custom models: Counter-Strike
+
+Version 2.4
+-Changed roof designs a bit (thanks Jezpuh)
+-Removed campable wire/clothesline
+-Added new way
+-Model trees!
+-Darkened map further, changed a few spawnpoints, other minor changes
+
+Version 2.3
+-Added more detail
+-Crying baby house now has an armor pack
+-Darker lighting outside (old 40, now 20)
+-Various minor changes (entity optimization, etc)
+
+Version 2.2b
+-Updated with new entities
+-Lowered sound volumes
+
+Version 2.2
+-More cover outdoors
+-Clothesline connecting two buildings
+-Even more minor detail
+-Removed some weapons/ammo
+
+Version 2.1
+-More (minor) detail
+-New path connecting sewer and one of the houses
+-Destroyed balcony to prevent survivors camping (climbable now)
+
+Version 2.0
+-Added minor detail
+-Fixed roof exploit

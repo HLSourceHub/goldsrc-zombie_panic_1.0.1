@@ -1,0 +1,52 @@
+Zombie Panic! v 1.0 Changelog
+10/17/05
+
+Fixed:
+- The grenade exploit is no more.
+
+- Random weapon spawning in the player spawning area removed. ( We have pleased the heathen gods. )
+
+- Wall/Strafe running exploit should no longer be effective.
+
+- Cracked Survivor Face model repaired. (Thanks CoolCookieCooks!)
+
+Changes:
+- Players can mute each other now.
+
+- Spectator mode was restored, but removed again due to a difficult to find crashing bug. Sorry guys!
+
+- Rifle ammo will now drop when the player uses Drop Unusable Ammo.
+
+- There are now default keys for selecting ammo type, dropping selected ammo type, dropping all unusable ammo, and Panic!
+
+- Players may only suicide after they've been alive for 20 seconds and theres a 5 second delay before the player actually croaks.
+
+- Zombie jump delay increased to 2 seconds.
+
+- You can now drop whatever ammo you have left, even if it's not enough to fill a magazine.
+
+- Players can no longer pick up a weapon if they already have that weapon (thus destroying the gun).
+
+- Locked cl_pitchup and cl_pitchdown.
+
+- Func_train and Func_wall_toggle entities now reset upon round reset.
+
+- Flag for func_buttons to allow them to be usable by certain teams only.
+(To use this you will need to recompile the map with the new .fgd, but otherwise it's not mandatory.)
+
+- Both Survivors and Zombies should move about 15% faster.
+
+- New version of zp_thelabs (Thanks spacer!)
+
+- New version of zp_ruins (Thanks Watchmaker!)
+
+- Added zp_santeria (Thanks spacer!)
+
+- Added zp_contingency and zpo_contingency (Thanks Olmy!)
+
+- Linux Server .so file updated to v1.0 (Included in the dlls directory)
+
+
+Thanks to all of you for waiting so patiently, and also to all of the ZP folks for working so hard on testing and otherwise getting this version ready for release. Now, on to Zombie Panic Source!
+
+-Twilight and Rhone

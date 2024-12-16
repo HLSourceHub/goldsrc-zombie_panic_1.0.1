@@ -1,0 +1,9 @@
+zp_paranoid by Jezpuh (jezpuh@gmail.com)
+
+Please note. This is the latest beta version. I gave away the map to someone else to
+work on after I didn't feel like spending more time on it. One thing led to another and
+the map became screwed up. This is a recompile of the lastest beta with the newest .fgd.
+It should be playable.
+
+Also, this is some of my older work. It does not represent what I am capable of now.
+

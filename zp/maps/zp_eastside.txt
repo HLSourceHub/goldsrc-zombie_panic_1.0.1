@@ -1,0 +1,69 @@
+=====================================================================
+   Map Spec Sheet
+=====================================================================
+------General Information--------------------------------------------
+
+Title		:	Eastside Rail Yard
+Filename	:	zp_eastside
+Author		:	Paul "KungFuDiscoMonkey" Traylor
+EMail		:	kungfudiscomonkey@gmail.com
+Web		:	http://kungfudiscomonkey.net
+Date		:	Janurary 14, 2005
+
+------Play Information-----------------------------------------------
+
+The Specialists
+How Many Players:	16
+
+------Map Information------------------------------------------------
+
+New Textures	:	Yes 
+				Textures taken from Poke646 by
+				Marc Schröder
+New Sounds	:	No
+New Skybox      :       Yes
+				Moody Night environment sky for Half Life
+				by SlowHandd
+				goforth@proaxis.com	
+New Models      :       No
+New Sprites     :       No
+
+------Construction---------------------------------------------------
+
+Base		:	From scratch
+Editor(s) used	:	Valve Hammer Editor 3.5
+                        Adobe Photoshop Elements 2.0
+			Wally
+Compile Machine	:	3 Ghz P4 w/ HT, 1 gb RAM
+Compile time	:	~4 min
+
+------Map Instructions-----------------------------------------------
+
+Extract the zip to the ns directory and it will put everything where
+it should be. If this doesn't work, the .bsp goes in the maps
+directory, the .wad should be in the ns directory and the minimap
+goes in sprites/minimaps/.
+
+------Changelog------------------------------------------------------
+v1: Quick port from TS
+
+v2: Darkened with -gamma .8 and dark grey light_env
+
+v3: Improved Weapon Placement
+
+v4: (10/12/04): Brightened a bit with -gamma and fixed a few gameplay issues
+
+v6: (1/14/05): Clipped off Rail Undercarriage.  Final version.
+
+------Additional Info------------------------------------------------
+
+Any feedback or suggestions, please send them to kungfudiscomonkey@gmail.com
+
+------Copyright-Permissions------------------------------------------
+
+I give NO permission whatsoever to decompile this map or
+use the textures in any other mapping project. Also, please no using ripent or
+similar to modify the map, if you want something changed, email me
+about it and if i consider it to be valid i'll sort it.
+
+------And Finally----------------------------------------------------

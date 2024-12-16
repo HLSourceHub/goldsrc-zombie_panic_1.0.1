@@ -1,0 +1,25 @@
+zp_nation (release 7)
+
+By hi
+
+New changes
+-Added clip brush over the fence 
+(that was an accident that it wasn't there)
+-crappy new secret room area!
+-some lights made illusionary to prevent people jumping into them
+and falling into the acid
+-Added plenty of player_starts to prevent people getting stuck inside
+other players
+
+Have fun!
+
+zp_nation (release 6)
+
+New changes
+-re-added cow room
+-guns have been moved a bit
+-the elevator has been changed into an elevator shaft 
+with the elevator at the bottom, to lessen camping
+-music for disco room, hit the controls a few times, it will turn on
+-vents have been changed, hopefully to lessen camping
+-put a fence outside

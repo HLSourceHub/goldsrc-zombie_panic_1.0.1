@@ -1,0 +1,13 @@
+"lang"
+{
+  "Language" "English"
+  "Tokens"
+  { 
+     " ResumeGame"  "Resume game"
+     " Disconnect"         "Disconnect"
+     " Create"                 "Create a game"
+     " Browse" "Join a game"
+     " Options"    "Options"
+     " Quit"                      "Quit"
+   }
+}
